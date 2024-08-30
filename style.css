@@ -43,10 +43,10 @@ button {
     width: 50%;
 }
 
-/* nav>a {
+nav>a {
     width: 100%;
     text-align: center;
-} */
+}
 
 nav {
     background-color: #563D7C;
